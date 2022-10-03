@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/apps/Foodogeki.ipa</string>
+					<string>https://thangarajk.github.io/apps/foodogeki.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Foodogeki</string>
+				<string>foodogeki</string>
 			</dict>
 			<key>thinned-assets</key>
 			<array>
@@ -47,20 +47,14 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/apps/Foodogeki-F4567CD6-F793-4C7F-B22E-0144A729F535.ipa</string>
+					<string>https://thangarajk.github.io/apps/foodogeki-5EC65726-1B2D-447F-A57B-A7383C34ACDE.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>14.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
 							<string>iPhone12,1</string>
 							<key>os-version</key>
-							<string>13.0</string>
+							<string>14.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
@@ -70,15 +64,21 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone12,1</string>
+							<string>iPhone11,8</string>
 							<key>os-version</key>
 							<string>14.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
 					<array>
-						<string>iPhone11,8</string>
 						<string>iPhone12,1</string>
+						<string>iPhone11,8</string>
 					</array>
 				</dict>
 				<dict>
@@ -87,15 +87,9 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/apps/Foodogeki-172E1C0C-5971-4AF6-9F5D-D39BC658ED99.ipa</string>
+					<string>https://thangarajk.github.io/apps/foodogeki-9FE99564-81EB-4A77-A28E-F38F0AFEC320.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,1</string>
-							<key>os-version</key>
-							<string>16.0</string>
-						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone12,1</string>
@@ -107,6 +101,12 @@
 							<string>iPhone11,8</string>
 							<key>os-version</key>
 							<string>15.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,1</string>
+							<key>os-version</key>
+							<string>16.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
