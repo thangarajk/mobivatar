@@ -47,55 +47,18 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/apps/foodogeki-EFF97BA1-CDAD-47FB-818F-57CE1E4D4344.ipa</string>
+					<string>https://thangarajk.github.io/apps/foodogeki-134016E2-299E-44EA-A70D-EB455745CEE5.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
 							<string>iPhone12,1</string>
 							<key>os-version</key>
-							<string>15.0</string>
+							<string>14.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>15.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>16.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,1</string>
-							<key>os-version</key>
-							<string>16.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.mobivatar.foodogeki</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://thangarajk.github.io/apps/foodogeki-378D0D4D-B671-46C5-BA93-6FDDF81E05F3.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,1</string>
 							<key>os-version</key>
 							<string>14.0</string>
 						</dict>
@@ -109,7 +72,7 @@
 							<key>device</key>
 							<string>iPhone11,8</string>
 							<key>os-version</key>
-							<string>14.0</string>
+							<string>13.0</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
@@ -117,6 +80,43 @@
 						<string>iPhone12,1</string>
 						<string>iPhone11,8</string>
 					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.mobivatar.foodogeki</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://thangarajk.github.io/apps/foodogeki-891447D0-9F8C-438D-8FFE-486B0E14B18E.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,1</string>
+							<key>os-version</key>
+							<string>16.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,1</string>
+							<key>os-version</key>
+							<string>15.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>16.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>15.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
 				</dict>
 			</array>
 		</dict>
