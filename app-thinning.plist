@@ -4,7 +4,7 @@
 <dict>
 	<key>variants</key>
 	<dict>
-		<key>Apps/Foodogeki-54BEF65B-2650-47BB-865F-C3546ADA3EFB.ipa</key>
+		<key>apps/Foodogeki-54BEF65B-2650-47BB-865F-C3546ADA3EFB.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
@@ -68,7 +68,7 @@
 				</dict>
 			</array>
 		</dict>
-		<key>Apps/Foodogeki-BE820A5B-7B66-41BA-A319-0D68E57AD317.ipa</key>
+		<key>apps/Foodogeki-BE820A5B-7B66-41BA-A319-0D68E57AD317.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
