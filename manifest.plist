@@ -47,11 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-<<<<<<< HEAD
 					<string>https://thangarajk.github.io/apps/foodogeki-54BEF65B-2650-47BB-865F-C3546ADA3EFB.ipa</string>
-=======
-					<string>https://thangarajk.github.io/apps/Foodogeki-23B255B8-6529-4745-9F36-ECA3A7C6BE28.ipa</string>
->>>>>>> 5f760c753478e36c5406ba8f3bbdd4bdc3c4fe25
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
