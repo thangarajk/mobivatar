@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://www.mobivatar.com/fogg/apps/foodogeki.ipa</string>
+		<string>https://thangarajk.github.io/apps/foodogeki.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://www.mobivatar.com/fogg/icon_57.png</string>
+		<string>https://thangarajk.github.io/images/image57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://www.mobivatar.com/fogg/icon_512.png</string>
+		<string>https://thangarajk.github.io/images/image512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
