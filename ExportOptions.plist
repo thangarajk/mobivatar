@@ -16,7 +16,7 @@
 		<string>https://thangarajk.github.io/images/image512.png</string>
 	</dict>
 	<key>method</key>
-	<string>ad-hoc</string>
+	<string>release-testing</string>
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.mobivatar.foodogeki</key>
