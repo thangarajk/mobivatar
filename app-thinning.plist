@@ -4,16 +4,16 @@
 <dict>
 	<key>variants</key>
 	<dict>
-		<key>Apps/Foodogeki-B0FF5CE7-CB45-4D7C-AB52-60A714B241DE.ipa</key>
+		<key>Apps/Foodogeki-13FB0F65-06D6-4560-9E8D-F353CAA70C52.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>86814809</integer>
+			<integer>86814861</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>86814809</integer>
+			<integer>86814861</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
@@ -38,13 +38,13 @@
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPhone11,8</string>
+					<string>iPhone12,1</string>
 					<key>os-version</key>
 					<string>13.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPhone12,1</string>
+					<string>iPhone11,8</string>
 					<key>os-version</key>
 					<string>13.0</string>
 				</dict>
@@ -56,16 +56,16 @@
 				</dict>
 			</array>
 		</dict>
-		<key>Apps/Foodogeki-F7267F2B-47E2-4AA4-AE85-B9F8E368C3E6.ipa</key>
+		<key>Apps/Foodogeki-CF7B2648-055A-4B60-9492-D038596DEFC3.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>86681656</integer>
+			<integer>86681721</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>86681656</integer>
+			<integer>86681721</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
@@ -86,12 +86,6 @@
 					<key>device</key>
 					<string>iPhone11,8</string>
 					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone12,1</string>
-					<key>os-version</key>
 					<string>15.0</string>
 				</dict>
 				<dict>
@@ -103,12 +97,6 @@
 				<dict>
 					<key>device</key>
 					<string>iPhone12,1</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPhone11,8</string>
 					<key>os-version</key>
 					<string>15.0</string>
 				</dict>
@@ -122,6 +110,12 @@
 					<key>device</key>
 					<string>iPhone11,8</string>
 					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone12,1</string>
+					<key>os-version</key>
 					<string>16.0</string>
 				</dict>
 				<dict>
@@ -129,6 +123,12 @@
 					<string>iPhone11,8</string>
 					<key>os-version</key>
 					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPhone11,8</string>
+					<key>os-version</key>
+					<string>16.0</string>
 				</dict>
 			</array>
 		</dict>

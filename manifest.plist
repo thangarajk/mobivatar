@@ -47,68 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/Apps/Foodogeki-F7267F2B-47E2-4AA4-AE85-B9F8E368C3E6.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>17.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,1</string>
-							<key>os-version</key>
-							<string>15.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,1</string>
-							<key>os-version</key>
-							<string>17.4</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,1</string>
-							<key>os-version</key>
-							<string>16.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>15.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,1</string>
-							<key>os-version</key>
-							<string>17.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>16.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>17.4</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.mobivatar.foodogeki</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://thangarajk.github.io/Apps/Foodogeki-B0FF5CE7-CB45-4D7C-AB52-60A714B241DE.ipa</string>
+					<string>https://thangarajk.github.io/Apps/Foodogeki-13FB0F65-06D6-4560-9E8D-F353CAA70C52.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -119,13 +58,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,8</string>
+							<string>iPhone12,1</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone12,1</string>
+							<string>iPhone11,8</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -141,6 +80,67 @@
 						<string>iPhone11,8</string>
 						<string>iPhone12,1</string>
 					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.mobivatar.foodogeki</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://thangarajk.github.io/Apps/Foodogeki-CF7B2648-055A-4B60-9492-D038596DEFC3.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>15.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,1</string>
+							<key>os-version</key>
+							<string>17.4</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,1</string>
+							<key>os-version</key>
+							<string>15.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,1</string>
+							<key>os-version</key>
+							<string>17.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>17.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,1</string>
+							<key>os-version</key>
+							<string>16.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>17.4</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>16.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
 				</dict>
 			</array>
 		</dict>

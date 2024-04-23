@@ -1,15 +1,15 @@
 
 App Thinning Size Report for All Variants of Foodogeki
 
-Variant: Foodogeki-B0FF5CE7-CB45-4D7C-AB52-60A714B241DE.ipa
-Supported variant descriptors: [device: iPhone11,8, os-version: 14.0], [device: iPhone11,8, os-version: 13.0], [device: iPhone12,1, os-version: 13.0], and [device: iPhone12,1, os-version: 14.0]
+Variant: Foodogeki-13FB0F65-06D6-4560-9E8D-F353CAA70C52.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 14.0], [device: iPhone12,1, os-version: 13.0], [device: iPhone11,8, os-version: 13.0], and [device: iPhone12,1, os-version: 14.0]
 App + On Demand Resources size: 86.8 MB compressed, 157.4 MB uncompressed
 App size: 86.8 MB compressed, 157.4 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: Foodogeki-F7267F2B-47E2-4AA4-AE85-B9F8E368C3E6.ipa
-Supported variant descriptors: [device: iPhone11,8, os-version: 17.0], [device: iPhone12,1, os-version: 15.0], [device: iPhone12,1, os-version: 17.4], [device: iPhone12,1, os-version: 16.0], [device: iPhone11,8, os-version: 15.0], [device: iPhone12,1, os-version: 17.0], [device: iPhone11,8, os-version: 16.0], and [device: iPhone11,8, os-version: 17.4]
+Variant: Foodogeki-CF7B2648-055A-4B60-9492-D038596DEFC3.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 15.0], [device: iPhone12,1, os-version: 17.4], [device: iPhone12,1, os-version: 15.0], [device: iPhone12,1, os-version: 17.0], [device: iPhone11,8, os-version: 17.0], [device: iPhone12,1, os-version: 16.0], [device: iPhone11,8, os-version: 17.4], and [device: iPhone11,8, os-version: 16.0]
 App + On Demand Resources size: 86.7 MB compressed, 157 MB uncompressed
 App size: 86.7 MB compressed, 157 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
