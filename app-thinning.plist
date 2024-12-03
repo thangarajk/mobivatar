@@ -4,22 +4,22 @@
 <dict>
 	<key>variants</key>
 	<dict>
-		<key>Apps/Foodogeki-5A9D5755-E7FC-42D5-928C-DF9686B2BFB1.ipa</key>
+		<key>Apps/Foodogeki-11582D50-70E5-4836-AA2E-16ABE358BF7A.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>100772668</integer>
+			<integer>100779422</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>100772668</integer>
+			<integer>100779422</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>162861199</integer>
+			<integer>162883441</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>162861199</integer>
+			<integer>162883441</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -32,129 +32,39 @@
 			<array>
 				<dict>
 					<key>device</key>
-					<string>iPad6,11</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,4-B</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,5-A</string>
+					<string>iPad13,7</string>
 					<key>os-version</key>
 					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad8,6</string>
+					<string>iPad7,11</string>
 					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,5-B</string>
-					<key>os-version</key>
-					<string>17.4</string>
+					<string>17.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
 					<string>iPad13,11</string>
 					<key>os-version</key>
-					<string>15.0</string>
+					<string>18.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad8,8</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,6</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,1</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,8</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,9</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,12</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,6-B</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,3-B</string>
+					<string>iPad8,7</string>
 					<key>os-version</key>
 					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad12,1</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,16</string>
+					<string>iPad13,4</string>
 					<key>os-version</key>
 					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad13,10</string>
+					<string>iPad6,4</string>
 					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,8</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad12,2</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,6-A</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,3</string>
-					<key>os-version</key>
-					<string>17.0</string>
+					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
@@ -164,111 +74,27 @@
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad8,9</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,5</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,5-B</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,4-A</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,1</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,16</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,4</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,1</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad5,3</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,3-A</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
 					<string>iPad8,4</string>
 					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,6</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,3</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,12</string>
-					<key>os-version</key>
 					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad7,4</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,17</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,11</string>
+					<string>iPad14,5-A</string>
 					<key>os-version</key>
 					<string>18.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,4-B</string>
+					<string>iPad13,18</string>
 					<key>os-version</key>
-					<string>17.0</string>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,8</string>
+					<key>os-version</key>
+					<string>18.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
@@ -278,355 +104,25 @@
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad7,12</string>
+					<string>iPad13,7</string>
 					<key>os-version</key>
 					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,5</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,11</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,6</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>RealityFamily22,1</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,5-B</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,6</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,9</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,5</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,17</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,1</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,8</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,5</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,11</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,18</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,10</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,6-A</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,6</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>MacFamily20,1</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,3</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,2</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,7</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,4-A</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,6</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,16</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,11</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,2</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,19</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,5</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,1</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>MacFamily20,1</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,2</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad6,7</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>MacFamily20,1</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,18</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,10</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,4</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,2</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,1</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,7</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,6</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,5</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,2</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,2</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,1</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,3-B</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>MacFamily20,1</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,5</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,2</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,11</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,10</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,12</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,11</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,5-A</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,2</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,2</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,11</string>
-					<key>os-version</key>
-					<string>15.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
 					<string>iPad12,2</string>
 					<key>os-version</key>
-					<string>16.0</string>
+					<string>15.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad11,7</string>
+					<string>iPad16,5-B</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad12,2</string>
 					<key>os-version</key>
 					<string>18.0</string>
 				</dict>
@@ -634,139 +130,13 @@
 					<key>device</key>
 					<string>iPad11,2</string>
 					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,8</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,6</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad5,4</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad6,3</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad6,4</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad6,3</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,8</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,9</string>
-					<key>os-version</key>
 					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,8</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,6-B</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,6-B</string>
+					<string>RealityFamily22,1</string>
 					<key>os-version</key>
 					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,11</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,4</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,6-B</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,7</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,7</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,8</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,4-B</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,6-A</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,5</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,6-A</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,2</string>
-					<key>os-version</key>
-					<string>17.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
@@ -776,75 +146,201 @@
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,8</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,10</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,5</string>
+					<string>iPad14,1</string>
 					<key>os-version</key>
 					<string>18.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad13,7</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,10</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,3</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,2</string>
+					<string>iPad8,2</string>
 					<key>os-version</key>
 					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,3-A</string>
+					<string>iPad8,9</string>
 					<key>os-version</key>
-					<string>18.0</string>
+					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad8,4</string>
+					<string>iPad13,4</string>
 					<key>os-version</key>
 					<string>17.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad16,4-A</string>
+					<string>iPad13,8</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,6</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,11</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>MacFamily20,1</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad12,2</string>
 					<key>os-version</key>
 					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad13,9</string>
+					<string>iPad13,11</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,3</string>
 					<key>os-version</key>
 					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,16</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,5-B</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad5,3</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,7</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,6-A</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,5</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,7</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,4</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,5-A</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad12,1</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>RealityFamily22,1</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad6,7</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,3</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,5</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,19</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,5-B</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,19</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,1</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,16</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,7</string>
+					<key>os-version</key>
+					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
 					<string>iPad13,17</string>
 					<key>os-version</key>
-					<string>15.0</string>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,6</string>
+					<key>os-version</key>
+					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
@@ -854,93 +350,75 @@
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad7,11</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad12,1</string>
+					<string>iPad8,3</string>
 					<key>os-version</key>
 					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,7</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,11</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,8</string>
-					<key>os-version</key>
-					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
 					<string>iPad8,4</string>
 					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,2</string>
-					<key>os-version</key>
 					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad6,12</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,11</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,1</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,4</string>
-					<key>os-version</key>
-					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
 					<string>iPad11,7</string>
 					<key>os-version</key>
-					<string>17.4</string>
+					<string>18.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad8,10</string>
+					<string>iPad14,4-B</string>
 					<key>os-version</key>
-					<string>17.4</string>
+					<string>18.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad7,5</string>
+					<string>iPad16,3-A</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,9</string>
 					<key>os-version</key>
 					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad7,12</string>
+					<string>iPad8,9</string>
 					<key>os-version</key>
 					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,8</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,12</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad12,1</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,10</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad6,4</string>
+					<key>os-version</key>
+					<string>15.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
@@ -950,13 +428,85 @@
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad8,12</string>
+					<string>iPad8,9</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,2</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,18</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,17</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,5-B</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,5</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,18</string>
 					<key>os-version</key>
 					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad6,8</string>
+					<string>iPad8,11</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,3</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,5</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,2</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,2</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,2</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,9</string>
 					<key>os-version</key>
 					<string>15.0</string>
 				</dict>
@@ -968,199 +518,7 @@
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad13,4</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,4</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,5-B</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,5</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,7</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad12,1</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,3</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,10</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>MacFamily20,1</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,4</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,3</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,5-A</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,3</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,9</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,9</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,6</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,2</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,4-A</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,5-A</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,17</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,3</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,4-A</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>RealityFamily22,1</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,2</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,6-A</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,1</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,6</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,3</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,9</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,10</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,16</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,3</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,19</string>
+					<string>iPad8,1</string>
 					<key>os-version</key>
 					<string>17.0</string>
 				</dict>
@@ -1168,65 +526,23 @@
 					<key>device</key>
 					<string>iPad16,4-B</string>
 					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,8</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad12,2</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,3</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,4</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,3-A</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,10</string>
-					<key>os-version</key>
 					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,9</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,7</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,12</string>
+					<string>iPad14,2</string>
 					<key>os-version</key>
 					<string>17.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,4-B</string>
+					<string>iPad8,8</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>MacFamily20,1</string>
 					<key>os-version</key>
 					<string>17.4</string>
 				</dict>
@@ -1238,67 +554,97 @@
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad13,6</string>
+					<string>iPad7,11</string>
 					<key>os-version</key>
 					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad6,11</string>
+					<string>iPad8,3</string>
 					<key>os-version</key>
-					<string>15.0</string>
+					<string>18.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,5-B</string>
+					<string>iPad14,6-B</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,4</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,11</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,1</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>RealityFamily22,1</string>
 					<key>os-version</key>
 					<string>17.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad16,6-B</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,12</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,9</string>
+					<string>iPad8,1</string>
 					<key>os-version</key>
 					<string>15.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,3-A</string>
+					<string>iPad16,3-A</string>
 					<key>os-version</key>
 					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,4-A</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,2</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,7</string>
+					<string>iPad8,10</string>
 					<key>os-version</key>
 					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,5-A</string>
+					<string>iPad13,8</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,6</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,7</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,4-B</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,6</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad6,11</string>
 					<key>os-version</key>
 					<string>16.0</string>
 				</dict>
@@ -1306,13 +652,13 @@
 					<key>device</key>
 					<string>iPad14,2</string>
 					<key>os-version</key>
-					<string>18.0</string>
+					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad13,6</string>
+					<string>iPad8,11</string>
 					<key>os-version</key>
-					<string>17.4</string>
+					<string>15.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
@@ -1322,67 +668,25 @@
 				</dict>
 				<dict>
 					<key>device</key>
+					<string>iPad14,1</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,3-A</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
 					<string>iPad11,4</string>
 					<key>os-version</key>
-					<string>16.0</string>
+					<string>15.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad8,7</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,3-B</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad12,2</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,5</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,6</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,12</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,2</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,2</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,6-B</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,18</string>
+					<string>iPad14,9</string>
 					<key>os-version</key>
 					<string>17.4</string>
 				</dict>
@@ -1390,101 +694,23 @@
 					<key>device</key>
 					<string>iPad8,3</string>
 					<key>os-version</key>
-					<string>17.4</string>
+					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad13,17</string>
+					<string>iPad16,6-A</string>
 					<key>os-version</key>
-					<string>18.0</string>
+					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
 					<string>iPad13,1</string>
 					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,2</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,3-B</string>
-					<key>os-version</key>
-					<string>17.0</string>
+					<string>18.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
 					<string>iPad14,1</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,7</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,19</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,10</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,19</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,5</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,1</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad6,4</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,3</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,6</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,3-B</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,4</string>
 					<key>os-version</key>
 					<string>15.0</string>
 				</dict>
@@ -1492,203 +718,17 @@
 					<key>device</key>
 					<string>iPad11,6</string>
 					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,4</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,11</string>
-					<key>os-version</key>
 					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,1</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,1</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,3-A</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,4</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,1</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,1</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,3-A</string>
-					<key>os-version</key>
-					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
 					<string>iPad13,10</string>
 					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad6,7</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad6,12</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,5</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,2</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,1</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,18</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad12,1</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,1</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,6</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,11</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,5-A</string>
-					<key>os-version</key>
 					<string>17.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad5,2</string>
-					<key>os-version</key>
-					<string>15.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad12,1</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,1</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad16,5-B</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,3-B</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,6</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>RealityFamily22,1</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,9</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,3</string>
-					<key>os-version</key>
-					<string>16.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,4</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad7,12</string>
-					<key>os-version</key>
-					<string>17.4</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad11,1</string>
+					<string>iPad7,1</string>
 					<key>os-version</key>
 					<string>15.0</string>
 				</dict>
@@ -1700,7 +740,823 @@
 				</dict>
 				<dict>
 					<key>device</key>
+					<string>iPad16,4-B</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,10</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,3-A</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,2</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad16,3-B</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad16,6-A</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,5</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,2</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad16,1</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,2</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,4-A</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,4-A</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,1</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>MacFamily20,1</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,1</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,5</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,12</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad12,1</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,16</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,5</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,8</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,11</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,4-B</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,7</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,6</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,8</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,4</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,12</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,8</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,4-B</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,3</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
 					<string>iPad13,4</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,1</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,6</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,6-A</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,1</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,4</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,5</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,5</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,4-A</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,10</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,12</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,4</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,6</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,2</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,11</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,6-B</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,11</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,10</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,10</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,6</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,11</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,2</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad6,12</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,3</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,1</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,17</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,6</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,6</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,2</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,5-A</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,1</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,11</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad5,4</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,8</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad12,1</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,9</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad16,6-B</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>MacFamily20,1</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,19</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,6-B</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad16,5-A</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,5</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,12</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,7</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad12,2</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,1</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad5,2</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,12</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,7</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,6</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,17</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,10</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,6</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,9</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,5</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,5</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,6</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,9</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,6-A</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,5-A</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,10</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,3</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,7</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,1</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad6,3</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,17</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,2</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,6</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,1</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,10</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,4</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,3-A</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,8</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,5</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,3</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad6,7</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,2</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,6-B</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad12,1</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,2</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad6,8</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,8</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad16,4-A</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad6,3</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,3-B</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,10</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,9</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,11</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,8</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,11</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,1</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,2</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,3</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,6-A</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,6</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,3</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,12</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,1</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,2</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,3-A</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,2</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,2</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad6,11</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,12</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad6,12</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,3-B</string>
 					<key>os-version</key>
 					<string>17.0</string>
 				</dict>
@@ -1712,43 +1568,121 @@
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad11,1</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,8</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,11</string>
-					<key>os-version</key>
-					<string>17.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad13,16</string>
+					<string>iPad16,6-B</string>
 					<key>os-version</key>
 					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,2</string>
+					<string>iPad13,19</string>
 					<key>os-version</key>
-					<string>16.0</string>
+					<string>18.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad8,11</string>
+					<string>iPad13,16</string>
 					<key>os-version</key>
 					<string>17.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
+					<string>iPad11,4</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,5</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,4</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,9</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,2</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad16,5-B</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
 					<string>iPad11,7</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,3-B</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,10</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,18</string>
+					<key>os-version</key>
+					<string>16.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,6</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,12</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,5-B</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,3</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad11,7</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,12</string>
+					<key>os-version</key>
+					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,4-A</string>
 					<key>os-version</key>
 					<string>17.0</string>
 				</dict>
@@ -1760,39 +1694,105 @@
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad8,1</string>
+					<string>iPad11,4</string>
 					<key>os-version</key>
 					<string>16.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,4-B</string>
+					<string>iPad7,3</string>
 					<key>os-version</key>
-					<string>18.0</string>
+					<string>17.0</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad14,11</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad8,2</string>
-					<key>os-version</key>
-					<string>18.0</string>
-				</dict>
-				<dict>
-					<key>device</key>
-					<string>iPad14,6-A</string>
+					<string>iPad13,6</string>
 					<key>os-version</key>
 					<string>17.4</string>
 				</dict>
 				<dict>
 					<key>device</key>
-					<string>iPad13,1</string>
+					<string>iPad16,5-A</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,11</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad16,2</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,16</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,1</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad8,4</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad16,4-A</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad16,3-B</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>MacFamily20,1</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,4</string>
 					<key>os-version</key>
 					<string>15.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,11</string>
+					<key>os-version</key>
+					<string>17.4</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad7,4</string>
+					<key>os-version</key>
+					<string>17.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad14,3-B</string>
+					<key>os-version</key>
+					<string>18.0</string>
+				</dict>
+				<dict>
+					<key>device</key>
+					<string>iPad13,1</string>
+					<key>os-version</key>
+					<string>16.0</string>
 				</dict>
 			</array>
 		</dict>
