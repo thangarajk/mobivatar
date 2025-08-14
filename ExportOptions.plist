@@ -29,6 +29,6 @@
 	<key>teamID</key>
 	<string>5P74EE2387</string>
 	<key>thinning</key>
-	<string>iPhone14,5</string>
+	<string>&lt;thin-for-all-variants&gt;</string>
 </dict>
 </plist>
