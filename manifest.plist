@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/images/image57.png</string>
+					<string>https://foodogeki.com/adhoc/images/image57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/images/image512.png</string>
+					<string>https://foodogeki.com/adhoc/images/image512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-C0726E21-EC7D-4A6E-A07B-C599FB3894A6.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-C0726E21-EC7D-4A6E-A07B-C599FB3894A6.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -566,7 +566,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-7C8E4056-A16E-4AF9-ACE5-F1AE7723F936.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-7C8E4056-A16E-4AF9-ACE5-F1AE7723F936.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -639,7 +639,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-CF1B6A78-87C3-452D-A815-A91EF6E89430.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-CF1B6A78-87C3-452D-A815-A91EF6E89430.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -718,7 +718,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-764845A6-6F8D-40CC-9BB6-0D0CA2C55336.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-764845A6-6F8D-40CC-9BB6-0D0CA2C55336.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -938,7 +938,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-C1E8B020-1FC9-44AF-9843-979D19FDCA31.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-C1E8B020-1FC9-44AF-9843-979D19FDCA31.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1011,7 +1011,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-AB2C3C1B-2100-4B67-9573-E1EDE74B3A22.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-AB2C3C1B-2100-4B67-9573-E1EDE74B3A22.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1199,7 +1199,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-B6ED416B-1BB5-4692-A135-1FE2A522C0E5.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-B6ED416B-1BB5-4692-A135-1FE2A522C0E5.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -3050,7 +3050,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-3D2E52BA-542E-4FEC-8B71-DCEB02E68E24.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-3D2E52BA-542E-4FEC-8B71-DCEB02E68E24.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -3069,7 +3069,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-E9B3DB99-8543-4454-83D6-018F56955465.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-E9B3DB99-8543-4454-83D6-018F56955465.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -3108,7 +3108,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-E3DEFAE8-6226-4B0D-88EC-1080ABFB02E5.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-E3DEFAE8-6226-4B0D-88EC-1080ABFB02E5.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -3793,7 +3793,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-6C5B2B6F-28A0-4360-ACDE-BC1334191370.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-6C5B2B6F-28A0-4360-ACDE-BC1334191370.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -3904,7 +3904,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-7665DE1D-3774-40AF-940F-A8F5686ABC2C.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-7665DE1D-3774-40AF-940F-A8F5686ABC2C.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -4144,7 +4144,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-464DC061-CA7B-4F9D-A9B4-3A9152472A94.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-464DC061-CA7B-4F9D-A9B4-3A9152472A94.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -4165,7 +4165,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-FBD2BA0C-DE2B-4738-925B-5338802E33A9.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-FBD2BA0C-DE2B-4738-925B-5338802E33A9.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -4294,7 +4294,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-12551D08-98A4-46A3-B346-6C23A794A47D.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-12551D08-98A4-46A3-B346-6C23A794A47D.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -4375,7 +4375,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-EBB6B047-99F3-4EE1-A767-6456EC156FB2.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-EBB6B047-99F3-4EE1-A767-6456EC156FB2.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -4431,7 +4431,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://thangarajk.github.io/mobivatar/Apps/Foodogeki-396222BA-8FED-4EB6-A432-4FE27BAC6B74.ipa</string>
+					<string>https://foodogeki.com/adhoc/Apps/Foodogeki-396222BA-8FED-4EB6-A432-4FE27BAC6B74.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
